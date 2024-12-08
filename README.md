@@ -1,5 +1,5 @@
 # Hi, I’m Bhavya! 👋  
-**A Ambitious Student Passionate about Tech 🌟**
+**An Ambitious Student Passionate about Tech 🌟**
 
 ## 🎓 About Me  
 - 📚 **BTech in Computer Science & AI**  
@@ -12,10 +12,10 @@
 ## 💻 Skills & Interests  
 - **Programming Languages**: C++, Python, HTML, CSS  
 - **💻 Tools & Platforms**:  
-- *Design**: Figma  
-- *Database**: MySQL  
-- *Learning Platforms**: GeeksforGeeks (GFG), LeetCode 
-- *Development Tools**: Git, VS Code
+- *Design*: Figma  
+- *Database*: MySQL  
+- *Learning Platforms*: GeeksforGeeks (GFG), LeetCode 
+- *Development Tools*: Git, VS Code
 
 ---
 
@@ -26,4 +26,4 @@
 
 ---
 
-> 🌟 "The future belongs to those who believe in the beauty of their dreams." 
+> 🌟 "The future belongs to those who believe in the beauty of their dreams." 🌟
