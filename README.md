@@ -4,7 +4,7 @@
 ## 🎓 About Me  
 - 📚 **BTech in Computer Science & AI**  
 - 🌱 Currently learning **Data Structures & Algorithms (C++)**, **Python**, and **AI Fundamentals**.  
-- 🧑‍💻 Exploring the world of **Competitive Programming**, **Cybersecurity**, and **Hackathons**.  
+- 🧑‍💻 Exploring the world of **Competitive Programming**, **Emerging AI Trends**, and **Hackathons**.  
 - 🎯 Focused on building a strong foundation in tech and contributing to open-source projects.  
 
 ---
