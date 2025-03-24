@@ -44,7 +44,7 @@
 ## 🌟 GitHub Highlights  
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Bhavya03&show_icons=true&theme=radical" alt="GitHub Stats" width="400px"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Bhavya37&show_icons=true&theme=radical" alt="GitHub Stats" width="400px"/>
    
 </div>
 
