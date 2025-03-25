@@ -20,7 +20,7 @@
 ## 💻 Skills & Interests  
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=cpp,python,html,css,github,mysql,javascript,vscode,figma" alt="Skills" />
+    <img src="https://skillicons.dev/icons?i=cpp,python,html,css,github,mysql,javascript,vscode,figma,react" alt="Skills" />
 </div>
 
 ---
