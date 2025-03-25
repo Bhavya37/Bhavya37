@@ -13,7 +13,7 @@
 - 📚 **BTech in Computer Science & AI**  
 - 🌱 Currently learning **Data Structures & Algorithms (C++)**, **Python**, and **AI Fundamentals**.  
 - 🧑‍💻 Exploring the world of **Competitive Programming** & **Emerging AI Trends**.
-- 🎯 Focused on building a strong foundation in tech and contributing to open-source projects.  
+- 🎯 Focused on building a strong foundation in **CyberSecurity** and **AI / ML**
 
 ---
 
