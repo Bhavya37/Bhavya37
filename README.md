@@ -10,17 +10,17 @@
 ---
 
 ## 🎓 About Me  
-- 📚 **BTech in Computer Science & AI**  
-- 🌱 Currently learning **Data Structures & Algorithms (C++)**, **Python**, and **AI Fundamentals**.  
-- 🧑‍💻 Exploring the world of **Competitive Programming** & **Emerging AI Trends**.
-- 🎯 Focused on building a strong foundation in **CyberSecurity** and **AI / ML**
+- 📚 **BTech CSE+AI (AKTU)**  
+- 🌱 Currently learning **Data Structures & Algorithms (C++)**, and **AI Fundamentals**.  
+- 🧑‍💻 **Ethical Hacking & Cybersecurity enthusiast**
+- 🎯 Focused on building a strong foundation in **emerging AI / ML trends**
 
 ---
 
 ## 💻 Skills & Interests  
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=cpp,python,html,css,github,mysql,javascript,vscode,figma,react" alt="Skills" />
+    <img src="https://skillicons.dev/icons?i=cpp,python,html,css,nodejs,c,github,mysql,javascript,vscode,figma,react" alt="Skills" />
 </div>
 
 ---
