@@ -12,7 +12,7 @@
 ## 🎓 About Me  
 - 📚 **BTech CSE+AI (AKTU)**  
 - 🌱 Currently learning **Data Structures & Algorithms (C++)**, and **AI Fundamentals**.  
-- 🧑‍💻 **Ethical Hacking & Cybersecurity enthusiast**
+- 🧑‍💻 **MACHINE LEARNING enthusiast**
 - 🎯 Focused on building a strong foundation in **emerging AI / ML trends**
 
 ---
