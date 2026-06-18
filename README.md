@@ -77,7 +77,7 @@
 
 ---
 
-# Currently Exploring
+# Currently Learning
 
 <p align="center">
 
